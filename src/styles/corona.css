@@ -1,0 +1,89 @@
+body{
+  background-color:#a49073;
+}
+.name{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  font-size: 2em;
+  color: white;
+  background-color: #423b36;
+  text-align: center;
+  font-style: normal;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.corona-body{
+  background-color: #a49073 ;
+  margin: 20px 30px 20px 20px;
+}
+
+.corona-body .judul {
+  background-image: url(img2.png);
+  padding: 70px;
+  font-size: 50px;
+  font-weight: 800;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: oblique;
+  color: wheat;
+}
+
+.selectBox {
+  position: relative;
+}
+
+.selectBox select {
+  width: 100%;
+  font-weight: bold;
+  font-style: initial;
+  font-variant: unset;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.confirm{
+    background-color: rgb(245, 214, 179);
+    border: 3 px solid #4e4640;
+  
+  }
+  .c-title{
+font-size: 1.5em;
+font-weight: bold; 
+color: rgb(245, 214, 179);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: #423b36;    
+padding-top: 5px;
+padding-bottom: 5px;
+}
+  .c-body{
+      font-weight: bold;
+      margin-top: 2px;
+  }
+  
+  .recovered{
+    background-color: rgb(245, 214, 179);
+    border: 3 px solid #423b36;
+  
+  }
+  .box{
+      box-shadow: 15px 7px 8px #423b36;      
+  }
+  .card-decks{
+      margin-top: 4em;
+  }
+  
+  .deaths{
+    background-color: rgb(245, 214, 179);
+    border: 3 px solid #423b36;
+  
+  }
+  
+.lastupdate{
+  font-size: 0.7em;
+  color: #8f3b1b;
+
+}
+.number{
+  font-size: 2.5em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
