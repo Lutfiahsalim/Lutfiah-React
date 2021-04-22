@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Lutfiah-React/static/css/main.7aca1524.chunk.css",
+    "main.js": "/Lutfiah-React/static/js/main.b122b5b7.chunk.js",
+    "main.js.map": "/Lutfiah-React/static/js/main.b122b5b7.chunk.js.map",
+    "runtime-main.js": "/Lutfiah-React/static/js/runtime-main.f3b02d8a.js",
+    "runtime-main.js.map": "/Lutfiah-React/static/js/runtime-main.f3b02d8a.js.map",
+    "static/css/2.150d169a.chunk.css": "/Lutfiah-React/static/css/2.150d169a.chunk.css",
+    "static/js/2.66500950.chunk.js": "/Lutfiah-React/static/js/2.66500950.chunk.js",
+    "static/js/2.66500950.chunk.js.map": "/Lutfiah-React/static/js/2.66500950.chunk.js.map",
+    "index.html": "/Lutfiah-React/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Lutfiah-React/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.7aca1524.chunk.css.map": "/Lutfiah-React/static/css/main.7aca1524.chunk.css.map",
+    "static/js/2.66500950.chunk.js.LICENSE.txt": "/Lutfiah-React/static/js/2.66500950.chunk.js.LICENSE.txt",
+    "static/media/corona.css": "/Lutfiah-React/static/media/img2.96341da3.png",
+    "static/media/logo.6ce24c58.svg": "/Lutfiah-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3b02d8a.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.66500950.chunk.js",
+    "static/css/main.7aca1524.chunk.css",
+    "static/js/main.b122b5b7.chunk.js"
+  ]
+}
