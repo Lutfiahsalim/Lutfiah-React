@@ -7,7 +7,47 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+nav.menu ul {
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    overflow: hidden;
+    color: #fff;
+    list-style: none;
+    float: left;
+    width: 100%;
+    background: #423b36;
+    -webkit-box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.55);
+    -moz-box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.55);
+    box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.55);
+}
+
+nav.menu ul li {
+    margin-left: 10px;
+    float: left;
+}
+
+nav.menu ul a {
+    padding: 15px;
+    display: block;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all 0.5s ease;
+    text-decoration: none;
+}
+
+nav.menu ul a:hover {
+    text-decoration: underline;
+    background: #574c34;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+footer {
+  text-align: center;
+  font-size: 12px;
 }
